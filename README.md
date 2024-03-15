@@ -15,7 +15,7 @@ Se deseja contribuir com este projeto, por favor siga as instruções abaixo:
 ## Alunos integrantes da equipe
 
 * Hudson da Silva Carlos
-* 
+* Caio Vinícius Braga
 * 
 * 
 
