@@ -16,7 +16,7 @@ Se deseja contribuir com este projeto, por favor siga as instruções abaixo:
 
 * Hudson da Silva Carlos
 * Caio Vinícius Braga
-* 
+* Marco Túlio Reis Silva
 * 
 
 ## Professores responsáveis
